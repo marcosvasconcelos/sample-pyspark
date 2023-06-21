@@ -13,11 +13,11 @@ Docker environment created to students learn how to build and create your first 
 * 
 ```
 
-Todas as imagens necessárias serão carregadas e uma imagem do jupyter-notebook será compilada para a integração com o elasticsearch
+All required images will be loaded and a jupyter-notebook image as well.
 
 # Mapeamento
 
-| Container     | Porta | Usuario   | Senha     |
+| Container     | Port  | User      | Password  |
 |---------------|-------|-----------|-----------|
 | jupyter       | 8888  |  N/A      | teste     |
 | kafkadrop     | 19000 |  N/A      | N/A       |
